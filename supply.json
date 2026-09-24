@@ -1,0 +1,21 @@
+{
+  "total_supply": 10000000000,
+  "circulating_supply": 2967824756,
+  "reserve_total": 7032175244,
+  "reserve_wallets": {
+    "Magna vesting - Investors": 1361400000,
+    "Magna vesting - Core Contributors": 1200000000,
+    "Magna vesting - Community": 2253135064,
+    "Magna vesting - Community (Airdrop pool)": 200000000,
+    "Magna vesting - Foundation": 1100000000,
+    "Magna vesting - Ecosystem and Liquidity": 900000000,
+    "Treasury Safe - Investors": 0,
+    "Treasury Safe - Core Contributors": 0,
+    "Treasury Safe - Community": 11837915,
+    "Treasury Safe - Community (Airdrop)": 0,
+    "Treasury Safe - Foundation": 0,
+    "Treasury Safe - Ecosystem and Liquidity": 5802264
+  },
+  "rpc": "https://ethereum-rpc.publicnode.com",
+  "updated_at": "2026-09-24T07:59:08Z"
+}

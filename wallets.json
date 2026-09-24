@@ -1,0 +1,24 @@
+{
+  "token": "0x228bec415ade4b61d7caf0adf8c91eac587ba369",
+  "decimals": 18,
+  "reserve_wallets": {
+    "Magna vesting - Investors":                "0xFE92AbAC501e2A46b43006e514dF5586DF4c5bB6",
+    "Magna vesting - Core Contributors":        "0x6DE6D94Aea9e453bF5FABa9409F61296107006aA",
+    "Magna vesting - Community":                "0xD5D34b04E38ba85A1Fe1774D867B56498D3d7958",
+    "Magna vesting - Community (Airdrop pool)": "0xA63de4d692e41df8Bb164890523D29B61A26b919",
+    "Magna vesting - Foundation":               "0x78D175a9799e1880274A01c42aCC1f4256bbA604",
+    "Magna vesting - Ecosystem and Liquidity":  "0xd641cBF0aD84Ab3C68E002E43Fb7dff0a07CeBb3",
+    "Treasury Safe - Investors":                "0xF7e121bB45D84de30871CBc8526F35DB82785d64",
+    "Treasury Safe - Core Contributors":        "0xE81651cC153D8bd0636307525d33c8B8DB4d43A7",
+    "Treasury Safe - Community":                "0x8b8dD32f238F59830Fdd5716Ba93E2DcAe43846e",
+    "Treasury Safe - Community (Airdrop)":      "0xcF7A61BbB93d3c16d0A71117c3df7F7B1AaBb2f7",
+    "Treasury Safe - Foundation":               "0x8fDB5A7DfF1deC06A2EfD5778A237b80715515a7",
+    "Treasury Safe - Ecosystem and Liquidity":  "0xb0f20a51D05EF58986b0a0FABF1eeC293B41Ddb8"
+  },
+  "rpc_endpoints": [
+    "https://ethereum-rpc.publicnode.com",
+    "https://eth.llamarpc.com",
+    "https://cloudflare-eth.com",
+    "https://eth.drpc.org"
+  ]
+}
