@@ -4,9 +4,9 @@ Live total and circulating supply for TRIA (Ethereum `0x228bec415ade4b61d7caf0ad
 
 | Endpoint | Returns |
 |---|---|
-| `https://parthtria.github.io/tria-supply/total.json` | total supply, whole number |
-| `https://parthtria.github.io/tria-supply/circulating.json` | circulating supply, whole number |
-| `https://parthtria.github.io/tria-supply/supply.json` | breakdown per reserve wallet + timestamp |
+| `https://supply.tria.so/total.json` | total supply, whole number |
+| `https://supply.tria.so/circulating.json` | circulating supply, whole number |
+| `https://supply.tria.so/supply.json` | breakdown per reserve wallet + timestamp |
 
 Circulating = total supply − balances of the reserve wallets in `wallets.json` (Magna vesting contracts and Tria treasury Safes), following CoinMarketCap's definition. No decimals, no API keys.
 
